@@ -1,0 +1,31 @@
+body {
+    background: #0000ff;
+}
+
+h1 {
+    color: white;
+}
+
+h2 {
+    color: pink;
+}
+
+p {
+    font-style: italic;
+}
+
+div {
+    background: black;
+    width: 50%;
+}
+
+#boxone {
+    color: white;
+    background: orange;
+    margin: auto;
+}
+
+.boxTwo {
+    width: 100%;
+    border: solid  1px white;
+}
